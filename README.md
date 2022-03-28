@@ -10,7 +10,7 @@ There are multiple data that is used to create this peoject.
   3. LiDAR 
   4. Stereo
 
-And as this is a robotics project, the rotation and transformation of the each particle are given in the [param]('/data/param') folder of this repository.
+And as this is a robotics project, the rotation and transformation of the each particle are given in the [param]('/data/param/') folder of this repository.
 This would help to locate the position of different sensor on my autonomous car.
 
-The report for this project is available [here]('/Report/Particle%20Filter%20SLAM%20for%20creating%20the%20MAP.pdf').
+The report for this project is available [here]('/Report/Particle Filter SLAM for creating the MAP.pdf').
