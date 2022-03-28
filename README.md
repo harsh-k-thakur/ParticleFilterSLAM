@@ -14,3 +14,6 @@ And as this is a robotics project, the rotation and transformation of the each p
 This would help to locate the position of different sensor on my autonomous car.
 
 The report for this project is available [here](/Report/Particle%20Filter%20SLAM%20for%20creating%20the%20MAP.pdf).
+
+The main code is available [here](/code/partile_filter_slam.ipynb).
+For this project I have heavily used Python and rest created everything from scratch.
